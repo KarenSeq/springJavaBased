@@ -1,0 +1,1 @@
+Spring project with Java configuration.
